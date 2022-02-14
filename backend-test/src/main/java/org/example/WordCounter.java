@@ -19,6 +19,12 @@ public class WordCounter {
                         v->1,
                         Integer::sum
                 ));
+        ImageClassifierResponse.builder()
+                .status("sda")
+                .category("dsad")
+                .probability(0.9f)
+                .build();
+
     }
 
     //Должен возвращать количество слов
