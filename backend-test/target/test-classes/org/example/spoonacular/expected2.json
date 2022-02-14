@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "id": 1042324,
+      "title": "Test",
+      "image": "https://spoonacular.com/recipeImages/1042324-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 610296,
+      "title": "Smoothie",
+      "image": "https://spoonacular.com/recipeImages/610296-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 776069,
+      "title": "Coco-Nibby Yogurt Bowl",
+      "image": "https://spoonacular.com/recipeImages/776069-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 3,
+  "totalResults": 68
+}
